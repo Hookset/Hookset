@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hookset
 
-<!--
-**Hookset/Hookset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build browser extensions, desktop apps, and tools. 
+Ideas are my side - I use AI-assisted development to bring them to life.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Browser extensions for Firefox (and eventually Chrome)
+- A lightweight Windows music player
+- Whatever problem is annoying me that week
+
+## Projects
+
+3 completed.
+Work in progress. Repos coming soon.
+
+## Stack
+
+AI-assisted - primarily Codex and Claude Code.
+I help where I can, but mostly just boss the agents around.
