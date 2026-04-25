@@ -4,9 +4,9 @@ I build browser extensions, desktop apps, and tools.
 
 Ideas are my side of things - I use AI-assisted development to make up for my lack of technical skill.
 
-I am a privacy enthusiast who supports an open and free internet.
+I am a privacy enthusiast that supports an open and free internet.
 
-## What I'm working on
+## What I'm Working On
 
 - Browser extensions
     - VOD downloader for Twitch
@@ -18,7 +18,9 @@ I am a privacy enthusiast who supports an open and free internet.
 
 ## Projects
 
-Repos coming soon.
+- Gain - Volume Booster
+- Lens - Translator
+- Workflow Overlay
 
 ## Stack
 
