@@ -2,7 +2,7 @@
 
 I build browser extensions, desktop apps, and tools. 
 
-Ideas are my side - I use AI-assisted development to bring them to life.
+Ideas are my side of things - I use AI-assisted development to bring them to life.
 
 I am a privacy enthusiast who supports an open and free internet.
 
@@ -18,9 +18,7 @@ I am a privacy enthusiast who supports an open and free internet.
 
 ## Projects
 
-3 completed.
-
-Work in progress. Repos coming soon.
+Repos coming soon.
 
 ## Stack
 
