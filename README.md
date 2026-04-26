@@ -13,7 +13,8 @@ I am a privacy enthusiast that supports an open and free internet.
     - Custom video controller (playback)
     - Inspect Element clone
 - Desktop Applications
-    - Currently building an offline Music Player
+    - Offline Music Player
+    - Beginner-oriented Windows Privacy Tool
 - Whatever problem is annoying me that week
 
 ## Notable Projects
@@ -21,6 +22,8 @@ I am a privacy enthusiast that supports an open and free internet.
 - [Gain - Volume Booster](https://github.com/Hookset/gain-volume-booster)
 - Lens - Translator
 - Workflow Overlay
+
+Missing repo's will be made shortly.
 
 ## Stack
 
