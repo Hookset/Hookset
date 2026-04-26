@@ -16,7 +16,7 @@ I am a privacy enthusiast that supports an open and free internet.
     - Currently building an offline Music Player
 - Whatever problem is annoying me that week
 
-## Projects
+## Notable Projects
 
 - [Gain - Volume Booster](https://github.com/Hookset/gain-volume-booster)
 - Lens - Translator
