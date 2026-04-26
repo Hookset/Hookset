@@ -18,7 +18,7 @@ I am a privacy enthusiast that supports an open and free internet.
 
 ## Projects
 
-- Gain - Volume Booster
+- [Gain - Volume Booster](https://github.com/Hookset/gain-volume-booster)
 - Lens - Translator
 - Workflow Overlay
 
