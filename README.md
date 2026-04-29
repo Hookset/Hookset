@@ -2,7 +2,7 @@
 
 I build browser extensions, desktop apps, and tools. 
 
-Ideas are my side of things - I use AI-assisted development to make up for my [lack of technical skill.](https://www.youtube.com/watch?v=jg1WUOxY6Cg)
+Ideas are my side of things - I use AI-assisted development to make up for my [lacking technical skill.](https://www.youtube.com/watch?v=jg1WUOxY6Cg)
 
 I am a privacy enthusiast that supports an open and free internet.
 
