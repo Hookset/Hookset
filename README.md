@@ -7,13 +7,15 @@ Privacy enthusiast that supports a free and open internet.
 ## What I'm Working On
 
 - Browser extensions
-    - VOD downloader for Twitch
+    - Detailed Cookie manager
+    - Accountless YouTube
     - Custom video controller (playback)
     - Inspect Element clone
 - Desktop Applications
+    - Win. 11 Privacy Tool
     - Offline Music Player
-    - Beginner-oriented Windows Privacy Tool
-- Whatever problem is annoying me that week
+- MISC.
+    - Turn-based browser game
 
 ## Notable Projects
 
