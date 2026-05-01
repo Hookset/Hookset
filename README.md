@@ -14,7 +14,7 @@ Privacy enthusiast that supports a free and open internet.
 - Desktop Applications
     - Win. 11 Privacy Tool
     - Offline Music Player
-- MISC.
+- Misc.
     - Turn-based browser game
 
 ## Notable Projects
