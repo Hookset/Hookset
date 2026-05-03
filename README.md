@@ -20,7 +20,7 @@ Privacy enthusiast that supports a free and open internet.
 ## Notable Projects
 
 - [Gain - Volume Booster](https://github.com/Hookset/gain-volume-booster)
-- [Lens - Translator](https://github.com/Hookset/lens-translator)
+- [Vernac](https://github.com/Hookset/vernac)
 - Workflow Overlay
 
 Missing repo's will be made shortly.
