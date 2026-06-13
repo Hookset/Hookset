@@ -1,27 +1,23 @@
 # Hookset
 
-I build browser extensions, desktop apps, and tools. 
+I build things I deem worth building.
 
 Privacy enthusiast that supports a free and open internet.
 
 ## What I'm Working On
 
-- Browser extensions
-    - Detailed Cookie manager
-    - Accountless YouTube
-    - Custom video controller (playback)
-    - Inspect Element clone
+- Browser Extensions
 - Desktop Applications
-    - Win. 11 Privacy Tool
-    - Offline Music Player
-- Misc.
-    - Turn-based browser game
+- Websites
+- Mobile Apps
+- Game(s)
+
+I am extremely scatterbrained and often do little bits of this and little bits of that, resulting in me shipping nothing yet somehow being super busy.
 
 ## Notable Projects
 
 - [Gain - Volume Booster](https://github.com/Hookset/gain-volume-booster)
 - [Vernac](https://github.com/Hookset/vernac)
-- Workflow Overlay
 
 Missing repo's will be made shortly.
 
@@ -29,4 +25,4 @@ Missing repo's will be made shortly.
 
 AI-assisted - primarily Codex and Claude Code.
 
-I help where I can, but mostly just boss the agents around.
+Always learning.
